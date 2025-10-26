@@ -1,0 +1,9 @@
+{
+  "companyName": "strange",
+  "currency": "INR",
+  "defaultLowStockThreshold": 5,
+  "itemsPerPage": 20,
+  "notifyEmail": "",
+  "timezone": "Asia/Calcutta",
+  "updatedAt": "2025-10-26T12:39:37.404Z"
+}
