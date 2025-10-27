@@ -30,8 +30,6 @@
     "tailwindcss": "^4",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
-  },
-  "prisma": {
-    "seed": "node --loader ts-node/esm ./prisma/seed.ts"
   }
+  
 }
